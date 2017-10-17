@@ -1,9 +1,5 @@
+import Rectangle from './src/Rectangle.js'
 
+let r = new Rectangle(2,3);
 
-class person {
-
-
-}
-
-
-console.log("Hello");
+console.log(r.toString());
